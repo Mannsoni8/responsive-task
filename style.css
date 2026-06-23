@@ -336,13 +336,9 @@ nav ul {
 }
 
 .name {
-  position: absolute;
   top: 15px;
   left: 15px;
-  background: white;
   padding: 8px 14px;
-  border-radius: 10px;
-  border: 1px solid #0d0d0d;
 }
 
 .name span {
@@ -1228,3 +1224,5 @@ footer .desc {
     color: #211c19;
     text-decoration: underline;
 }
+
+
